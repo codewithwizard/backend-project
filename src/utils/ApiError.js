@@ -22,3 +22,6 @@ class ApiError extends Error {
 }
 
 export {ApiError}
+
+// just for production-grade app
+// to handle apiresponses and apierrors 

@@ -8,3 +8,6 @@ class ApiResponse {
 }
 
 export { ApiResponse }
+
+// just for production-grade app
+// to handle apiresponses and apierrors 
